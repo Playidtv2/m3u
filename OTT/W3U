@@ -1,0 +1,45 @@
+{
+  "name": "📺เพลย์ลิสต์ ทีวี",
+  "author": "📺📻🎥🎬⚽",
+  "url": "",
+  "image": "https://i.gifer.com/DzUu.gif",
+  "epg": "https://playidtv.vercel.app/ais/guide.xml",
+  "info": "เลือกหมวดหมู่ทีวี",
+  "groups": [
+    {
+      "name": "🟢หนังและซีรีย์",
+      "image": "https://dl.dropbox.com/scl/fi/b5wikc187cqww9378cc1x/20240328_160859.png?rlkey=uu322pqug0s3fjkeyfmgyls6x&dl=0",
+      "url": "https://dl.dropbox.com/s/m21l3fbh4h5tfxs/testplay.w3u?dl=0"
+    },
+    {
+      "name": "🟢ฟังวิทยุออนไลน์📻",
+      "image": "https://dl.dropbox.com/scl/fi/9ffota6qqtu44c3dwa1dd/listen.png?rlkey=12pvj336nttvuuy2ikjusoc5v&dl=0",
+      "url": "https://dl.dropbox.com/s/6l7d02w316bsr3q/playidtv-radio.w3u?dl=0"
+    },
+    {
+      "name": "🟢DKL ",
+      "image": "https://playidtv24.vercel.app/wiesplay/20240714_135444.png",
+      "url": "https://playidtv24.vercel.app/wiesplay/Dookeela.html"
+    },
+    {
+      "name": "🟢 AIS Olympic 2024 ",
+      "image": "https://cnt1-image.cdn.3bbtv.com:8443/bannerImage/7937/7937_602x224.png",
+      "url": "https://playidtv24.vercel.app/OTT/playidtvthai3.html"
+    },
+    {
+      "name": "🟢THAI TV",
+      "image": "https://dl.dropbox.com/scl/fi/cnyclzvijn7oqzavogcx8/20240329_101856.png?rlkey=iniyl5ajss2ss5fsy57h9teox&dl=0",
+      "url": "https://dl.dropboxusercontent.com/s/ra9lwid20c9i46f/cable.txt"
+    },
+    {
+      "name": "🟢IPTV36",
+      "image": "https://dl.dropbox.com/scl/fi/dq5y29krj03zmb43o3cdp/20240330_035117.png?rlkey=45d3d02y7ge4j54qz6b5aml84&dl=0",
+      "url": "https://iptv36.vercel.app/playlist-v2.m3u"
+    },
+    {
+      "name": "🟢กีฬาต่างประเทศ",
+      "image": "https://dl.dropbox.com/scl/fi/we7yl7m8inlrrbssk9r7i/20240727_092310.png?rlkey=dusq4nvosq43v57ubvaes17fq&dl=0",
+      "url": "https://dl.dropbox.com/scl/fi/sywhy1dzlz8tn12y1m5k5/update24th.w3u?rlkey=7b1pgqi671tp6oaugldxskl38&dl=0"
+    }
+  ]
+}
