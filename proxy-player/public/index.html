@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Proxy + HLS Player</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Proxy + HLS Player</h1>
+
+    <label>Paste .m3u8 URL:</label>
+    <input id="inputUrl" placeholder="https://example.com/stream.m3u8" />
+    <button id="playBtn">Play via Proxy</button>
+
+    <div class="or">— or —</div>
+
+    <label>Load JSON that contains { "data": "m3u8" }:</label>
+    <input id="jsonUrl" placeholder="https://example.com/stream.json" />
+    <button id="loadJsonBtn">Load from JSON</button>
+
+    <div id="playerWrap">
+      <video id="video" controls playsinline></video>
+    </div>
+
+    <div id="log"></div>
+
+    <footer>
+      <small>Note: For deployment secure the /proxy endpoint (whitelist, auth, rate-limits).</small>
+    </footer>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <script src="/player.js"></script>
+</body>
+</html>
