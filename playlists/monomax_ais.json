@@ -1,0 +1,14 @@
+[
+  {
+    "name": "MonoMax",
+    "logo": "https://via.placeholder.com/240x140?text=MonoMax",
+    "file": "https://example.com/live/monomax.m3u8",
+    "info": "หนังและซีรีส์"
+  },
+  {
+    "name": "AIS Play",
+    "logo": "https://via.placeholder.com/240x140?text=AISPlay",
+    "file": "https://example.com/live/aisplay.m3u8",
+    "info": "หนังออนไลน์"
+  }
+]

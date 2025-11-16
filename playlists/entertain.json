@@ -1,0 +1,14 @@
+[
+  {
+    "name": "GMM25",
+    "logo": "https://via.placeholder.com/240x140?text=GMM25",
+    "file": "https://example.com/live/gmm25.m3u8",
+    "info": "บันเทิงและซีรีส์"
+  },
+  {
+    "name": "Workpoint",
+    "logo": "https://via.placeholder.com/240x140?text=Workpoint",
+    "file": "https://example.com/live/workpoint.m3u8",
+    "info": "วาไรตี้"
+  }
+]

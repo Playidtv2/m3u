@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cartoon Network",
+    "logo": "https://via.placeholder.com/240x140?text=Cartoon",
+    "file": "https://example.com/live/cartoon.m3u8",
+    "info": "การ์ตูน"
+  },
+  {
+    "name": "Disney Channel",
+    "logo": "https://via.placeholder.com/240x140?text=Disney",
+    "file": "https://example.com/live/disney.m3u8",
+    "info": "ครอบครัวและการ์ตูน"
+  }
+]
