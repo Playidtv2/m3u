@@ -1,0 +1,14 @@
+[
+  {
+    "name": "TrueSport 5",
+    "logo": "https://via.placeholder.com/240x140?text=TrueSport5",
+    "file": "https://slave03.appball.vip/hls/hP-j7mghlCbuES1lOeNhcQ/1762872596/truesport5.m3u8",
+    "info": "Live Sport (Provided)"
+  },
+  {
+    "name": "ESPN",
+    "logo": "https://via.placeholder.com/240x140?text=ESPN",
+    "file": "https://example.com/live/espn.m3u8",
+    "info": "กีฬา สากล"
+  }
+]
